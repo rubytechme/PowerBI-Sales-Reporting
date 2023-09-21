@@ -42,7 +42,7 @@ The report comprises 4 pages:
 
 ### Analysis:
 
-The state that recorded the highest sales was california with a total sales of $458k and this can be as a result of the high population in california. 
+- The state that recorded the highest sales was california with a total sales of $458k and this can be as a result of the high population in california. 
 
 
 ## Sales Trend:
@@ -54,9 +54,9 @@ Florida                |        Texas
 
 ### Analysis:
 
-The state that had the most fluctuating sales is Florida which recorded its highest sales in march 2019 of $26k, and after that recorded $0k in June 2019 and did not record anyother high until August 2022 of $5k
+- The state that had the most fluctuating sales is Florida which recorded its highest sales in march 2019 of $26k, and after that recorded $0k in June 2019 and did not record anyother high until August 2022 of $5k
 
-Texas which had the 3rd highest sales of $170k also recorded inconsistent inflow month-in-month-out with a high of $19k and never reached a weak till december 2022.
+- Texas which had the 3rd highest sales of $170k also recorded inconsistent inflow month-in-month-out with a high of $19k and never reached a weak till december 2022.
 
 
 ## Best performing state:
@@ -66,7 +66,7 @@ Texas which had the 3rd highest sales of $170k also recorded inconsistent inflow
 
 ### Analysis:
 
-Illinois had the most stable sales/inflow, with the lowest sales $0k and the highest $5k. Unlike New York that had $0k as its lowest and $25k as its highest sales, amongst other states like California, Texas, and Washington.
+- Illinois had the most stable sales/inflow, with the lowest sales $0k and the highest $5k. Unlike New York that had $0k as its lowest and $25k as its highest sales, amongst other states like California, Texas, and Washington.
 
 
 ## Lowest Sales:
@@ -82,7 +82,7 @@ South Dakota              |            North Dakota
 
 ### Analysis:
 
-The lowest performing states are Maine, West Virginia, South Dakota, amd North Dakota which recorded $1k sales respectively
+- The lowest performing states are Maine, West Virginia, South Dakota, amd North Dakota which recorded $1k sales respectively
 
 
 ## Conclusion and Recommendations:
