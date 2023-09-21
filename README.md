@@ -36,6 +36,7 @@ The report comprises 4 pages:
 [You can interact with the report here](https://public.tableau.com/app/profile/ihekweme.ruby/viz/Salesdashboard_16505394663940/SalesDashboard)
 
 ## Highest sales:
+---
 
 ![](problem1.JPG)
 
@@ -43,7 +44,9 @@ The report comprises 4 pages:
 
 The state that recorded the highest sales was california with a total sales of $458k and this can be as a result of the high population in california. 
 
+
 ## Sales Trend:
+---
 
 Florida                |        Texas
 :---------------------:| :-----------------------:
@@ -67,6 +70,7 @@ Illinois had the most stable sales/inflow, with the lowest sales $0k and the hig
 
 
 ## Lowest Sales:
+---
 
 Maine                     |            West Virginia
 :-----------------------: | :---------------------------:
@@ -82,6 +86,7 @@ The lowest performing states are Maine, West Virginia, South Dakota, amd North D
 
 
 ## Conclusion and Recommendations:
+---
 
 - Illinois has the highest impact on income although relatively negligible.
 - States generating highest sales does not mean that they have stability 
