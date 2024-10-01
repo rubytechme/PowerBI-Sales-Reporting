@@ -1,4 +1,4 @@
-# Sales-Analysis-Staplestores
+# PowerBI - Sales Reporting
 
 ![](intro.image.jpeg)
 ---
